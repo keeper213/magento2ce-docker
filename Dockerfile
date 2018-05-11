@@ -105,7 +105,7 @@ ENV M2SETUP_DB_HOST=127.0.0.1 \
     M2SETUP_ADMIN_USER=magento2 \
     M2SETUP_ADMIN_PASSWORD=magento2 \
     M2SETUP_ADMIN_URI=admin_1111 \
-    M2SETUP_VERSION=2.2.2
+    M2SETUP_VERSION=2.1.6
 
 #Add custom php config and operational scripts
 COPY conf/* /usr/local/etc/
